@@ -11,13 +11,13 @@
 #### Local Workflows
 `git status`: See current staged/unstaged/untracked files
 
-	- Can also use `-s` flag for shorter message
+ - Can also use `-s` flag for shorter message
 
 `git add`: Add files to commit
 
 `git commit`: Commit changes
 
-	- Can add `-a` for all files and `-m` for inline commit message
+ - Can add `-a` for all files and `-m` for inline commit message
 
 `git commit --amend`: Amend a previous commit
 
@@ -28,7 +28,7 @@
 
 `git push`: Push your changes up to the repo
 
-	- Set as upstream branch by adding the `-u` option
+ - Set as upstream branch by adding the `-u` option
 
 `git checkout`: Checkout a commit or track a remote branch
 
